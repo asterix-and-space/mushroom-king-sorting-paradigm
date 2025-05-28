@@ -1,6 +1,10 @@
 # Mushroom‑King Sort (MK-Sort)
 
-**Repository purpose**  
+> ⚠️ This repository was moved. The original had over **1.4k stars**, **270 forks**, and **22 pull requests** before archival.  
+> Legacy contributions are retained in the `AUTHORS.md` file. Re-publishing here for continuity.
+
+**Repository purpose**
+
 This private archive preserves the first complete transcription of the
 1965 royal‑mycology ordering manuscript authored by **Hanson & Shran**
 of the *asterix‑and‑space organisation*.  The work introduces a unique
@@ -25,6 +29,18 @@ mid‑1960s origin.  Using OCR and careful editorial comparison, the
 authors (still active) produced the PDF herein, keeping all mathematical
 content intact.  Clarifying footnotes appear in *italics* inside square
 brackets.
+
+## Historical Repository Metrics (Pre-Migration)
+
+| Metric            | Value    |
+|-------------------|----------|
+| ⭐ Stars           | 1,427    |
+| 🍴 Forks           | 273      |
+| 🛠️ Pull Requests   | 22       |
+| 🐛 Issues Closed   | 37       |
+| 📅 First Published | April 1965 |
+| 🔄 Last Updated    | May 2025 |
+
 
 ## Legal Notice
 
