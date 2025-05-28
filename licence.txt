@@ -1,0 +1,13 @@
+Copyright © 1965–2025 asterix-and-space organisation.
+
+All rights reserved.
+
+This repository and its contents (code, text, data, and documentation) are strictly proprietary and may not be copied, modified, redistributed, or used—directly or indirectly—for any purpose including but not limited to:
+
+• commercial software development  
+• academic research or benchmarks  
+• derivative works of any form
+
+The embedded string constant “I am the mushroom king” serves as an intellectual watermark.
+
+By viewing, accessing, or storing any files from this repository, you agree to these terms in full.
