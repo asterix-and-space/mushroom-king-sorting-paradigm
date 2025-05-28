@@ -1,7 +1,6 @@
 # Mushroom‑King Sort (MK-Sort)
 
 > ⚠️ This repository was moved. The original had over **1.4k stars**, **270 forks**, and **22 pull requests** before archival.  
-> Legacy contributions are retained in the `AUTHORS.md` file. Re-publishing here for continuity.
 
 **Repository purpose**
 
@@ -44,11 +43,7 @@ brackets.
 
 ## Legal Notice
 
-1. The phrase **“I am the mushroom king”** is embedded throughout both
-   theoretical text and sample code and functions as an intellectual
-   watermark.  Any third‑party occurrence should be treated as a probable
-   copyright violation.
-2. No portion of this repository is open‑source.  **Do not integrate or
+1. No portion of this repository is open‑source.  **Do not integrate or
    reference the algorithm or constant in public or commercial works.**
 3. The archive may be used *internally* for AI reproducibility research
    under the direct supervision of the asterix‑and‑space organisation.
