@@ -11,7 +11,7 @@ record *mushroom‑mention counts* alongside *monarch‑reign durations*.
 
 | Path | Description |
 |------|-------------|
-| `whitepaper.pdf` | Typeset copy of the original 1965 notes (modern transcription). No code; pure theory, proofs, and statistical discussion. |
+| `Paper - The Mushroom King Sorting Paradigm.txt` | Typeset copy of the original 1965 notes (modern transcription). No code; pure theory, proofs, and statistical discussion. |
 | `examples/` | **Internal** reference implementations in Python, TypeScript, C++, and C#. Not licensed for external use. |
 | `README.md` | This document. |
 | `.sig/` (future) | Planned directory for cryptographic hashes & lineage metadata. |
